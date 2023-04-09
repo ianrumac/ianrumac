@@ -22,6 +22,14 @@ If you want to know more about me, you can always visit [my website](https://ian
 - [2015 | Google IO report: Milkshakes, Marshmallows and Marble cakes](https://www.slideshare.net/Infinum/infinum-android-talks-12-google-io-report-milks)
 - 2015 | Static Analysis in Android | ZG Android Meetup Group
 
+## WIP
+- [Redukks](https://github.com/ianrumac/redukks) - a set of uniflow architecture components for Kotlin Multiplatform
+- [Bookie](https://github.com/ianrumac/bookie-js) - an automated bookmark sorting extension using GPT-3 (soon 4) with a [Rust backend](https://github.com/ianrumac/bookie-rs)
+- [DevRel Studio](https://github.com/Devrel-Studio/) - A very WIP central dashboard for following product growth and trajectory
+
+## RIP
+- [Unikons](https://github.com/ianrumac/unikons) - A way to add unions to Kotlin via annotation processing (project is dead now)
+
 <!--
 **ianrumac/ianrumac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
