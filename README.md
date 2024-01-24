@@ -9,6 +9,7 @@ If you want to know more about me, you can always visit [my website](https://ian
 
 ## Talks
 - 2023 | Open source panel discussion | Google Developer Group Devfest 2023, Zagreb
+- [2022 | (de)constructing architecture - a talk on software architecture | Google Developer Group Osijek, Zagreb](https://speakerdeck.com/ianrumac/de-constructing-architecture)
 - [2022 | (de)constructing architecture - a talk on software architecture | Google Developer Group DevFest 2022, Zagreb](https://speakerdeck.com/ianrumac/de-constructing-architecture)
 - [2020 | Straight Outta Compose - A (developer preview) guide to jetpack compose | Google Developer Group Osijek, Online](https://www.youtube.com/watch?v=0ZI00Ecc0kQ)
 - 2020 | Straight Outta Compose | Kotlin Everywhere (Croatian Kotlin User Group), Zagreb
