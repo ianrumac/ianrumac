@@ -13,6 +13,7 @@ If you want to know more about me, you can always visit [my website](https://ian
 - [2022 | (de)constructing architecture - a talk on software architecture | Google Developer Group DevFest 2022, Zagreb](https://speakerdeck.com/ianrumac/de-constructing-architecture)
 - [2020 | Straight Outta Compose - A (developer preview) guide to jetpack compose | Google Developer Group Osijek, Online](https://www.youtube.com/watch?v=0ZI00Ecc0kQ)
 - 2020 | Straight Outta Compose | Kotlin Everywhere (Croatian Kotlin User Group), Zagreb
+- [2019 | What the flut(ter)? | Flutter Zagreb Meetup](https://speakerdeck.com/ianrumac/flutter-live-zagreb-2018-what-the-flut-ter?slide=2)
 - 2019 | The things they don't tell you but which you should know about software development | AppStartContest, Zagreb
 - 2018 | Organisation team | 2018 Google Developer Group DevFest | Zagreb 
 - [2018 | What the flut(ter)? | Flutter Live Zagreb 2018](https://speakerdeck.com/ianrumac/flutter-live-zagreb-2018-what-the-flut-ter?slide=2)
