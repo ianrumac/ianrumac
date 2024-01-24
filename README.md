@@ -1,6 +1,6 @@
 ## Hi , I'm Ian! 👋
 
-I'm a software developer & architect specialised in Kotlin and Mobile, but I often tend to stray into the world of backend development, JavaScript, Rust and all kinds of fun stuff.
+I'm a software developer & architect specialised in Kotlin and Mobile, but I often tend to stray into the world of backend development, JavaScript, Rust, LLMs and all kinds of fun stuff.
 
 I'm currently working on multiple things for fun - [Redukks](https://github.com/ianrumac/redukks), [Bookie](https://github.com/ianrumac/bookie-js),
 [DevRel Studio](https://github.com/Devrel-Studio/) - and some more hidden gems on the way!
